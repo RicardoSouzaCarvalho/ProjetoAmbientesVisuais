@@ -1,0 +1,10 @@
+C:\Users\Renan\Documents\Visual Studio 2013\Projects\AgendaDeTarefas\AgendaDeTarefas\bin\Debug\AgendaDeTarefas.exe.config
+C:\Users\Renan\Documents\Visual Studio 2013\Projects\AgendaDeTarefas\AgendaDeTarefas\bin\Debug\AgendaDeTarefas.exe
+C:\Users\Renan\Documents\Visual Studio 2013\Projects\AgendaDeTarefas\AgendaDeTarefas\bin\Debug\AgendaDeTarefas.pdb
+C:\Users\Renan\Documents\Visual Studio 2013\Projects\AgendaDeTarefas\AgendaDeTarefas\obj\Debug\AgendaDeTarefas.csprojResolveAssemblyReference.cache
+C:\Users\Renan\Documents\Visual Studio 2013\Projects\AgendaDeTarefas\AgendaDeTarefas\obj\Debug\AgendaDeTarefas.Properties.Resources.resources
+C:\Users\Renan\Documents\Visual Studio 2013\Projects\AgendaDeTarefas\AgendaDeTarefas\obj\Debug\AgendaDeTarefas.csproj.GenerateResource.Cache
+C:\Users\Renan\Documents\Visual Studio 2013\Projects\AgendaDeTarefas\AgendaDeTarefas\obj\Debug\AgendaDeTarefas.exe
+C:\Users\Renan\Documents\Visual Studio 2013\Projects\AgendaDeTarefas\AgendaDeTarefas\obj\Debug\AgendaDeTarefas.pdb
+C:\Users\Renan\Documents\Visual Studio 2013\Projects\AgendaDeTarefas\AgendaDeTarefas\obj\Debug\AgendaDeTarefas.frmCalendario.resources
+C:\Users\Renan\Documents\Visual Studio 2013\Projects\AgendaDeTarefas\AgendaDeTarefas\obj\Debug\AgendaDeTarefas.NovaTarefa.resources
