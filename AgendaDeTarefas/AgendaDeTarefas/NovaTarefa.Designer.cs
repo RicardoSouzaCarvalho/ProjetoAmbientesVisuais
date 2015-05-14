@@ -44,7 +44,7 @@
             this.checkBox5 = new System.Windows.Forms.CheckBox();
             this.checkBox6 = new System.Windows.Forms.CheckBox();
             this.checkBox7 = new System.Windows.Forms.CheckBox();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btn_confirmar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -192,21 +192,22 @@
             this.checkBox7.Text = "Domingo";
             this.checkBox7.UseVisualStyleBackColor = true;
             // 
-            // button1
+            // btn_confirmar
             // 
-            this.button1.Location = new System.Drawing.Point(294, 325);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 16;
-            this.button1.Text = "Confirmar";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btn_confirmar.Location = new System.Drawing.Point(294, 325);
+            this.btn_confirmar.Name = "btn_confirmar";
+            this.btn_confirmar.Size = new System.Drawing.Size(75, 23);
+            this.btn_confirmar.TabIndex = 16;
+            this.btn_confirmar.Text = "Confirmar";
+            this.btn_confirmar.UseVisualStyleBackColor = true;
+            this.btn_confirmar.Click += new System.EventHandler(this.btn_confirmar_Click);
             // 
             // NovaTarefa
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(381, 360);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btn_confirmar);
             this.Controls.Add(this.checkBox7);
             this.Controls.Add(this.checkBox6);
             this.Controls.Add(this.checkBox5);
@@ -248,6 +249,6 @@
         private System.Windows.Forms.CheckBox checkBox5;
         private System.Windows.Forms.CheckBox checkBox6;
         private System.Windows.Forms.CheckBox checkBox7;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btn_confirmar;
     }
 }
