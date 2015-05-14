@@ -19,16 +19,7 @@ namespace AgendaDeTarefas
 
         private void btn_confirmar_Click(object sender, EventArgs e)
         {
-            /*TESTE COMENTARIO 123333*/
-            /*TESTE COMENTARIO 123333*/
-            /*TESTE COMENTARIO 123333*/
-            /*TESTE COMENTARIO 123333*/
-            /*TESTE COMENTARIO 123333*/
-            /*TESTE COMENTARIO 123333*/
-            /*TESTE COMENTARIO 123333*/
-            /*TESTE COMENTARIO 123333*/
-            /*TESTE COMENTARIO 123333*/
-            /*TESTE COMENTARIO 123333*/
+            
 
         }
     }
